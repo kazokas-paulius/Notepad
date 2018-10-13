@@ -1,0 +1,96 @@
+body{
+    height: 100%;
+    background-image: url('https://graffitiartpedia.com/wp-content/uploads/2017/08/doodle-art-colorful-colorful-doodle-wallpaper-google-search-designs-pinterest.jpg');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 110%;
+    min-width: 666px;
+}
+.navbar{
+    padding: .5rem 5rem !important;
+    border-bottom: 5px solid rgb(234, 67, 53);
+}
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+nav a{
+    font-weight: 600;
+    font-size: 2vh;
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(240, 240, 240);
+    text-decoration: none;
+}
+nav a:hover, ul.nav a:hover{
+    color: rgb(234, 67, 53);
+}
+main{
+    background-image: url('https://graffitiartpedia.com/wp-content/uploads/2017/08/doodle-art-colorful-colorful-doodle-wallpaper-google-search-designs-pinterest.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 110%;
+    height: 25rem;
+}
+main .card{
+    margin: 0 auto;
+    width: 20rem;
+    transform: translateY(10%);
+    box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.60);
+}
+.btn{
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+.btn-group, .btn-group-vertical{
+    display: inline !important;
+}
+.jumbotron{
+    border-top: 5px solid rgb(234, 67, 53);
+    border-bottom: 5px solid rgb(234, 67, 53);
+}
+.jumbotron nav{
+    margin-bottom: 2rem !important;
+    text-align: center !important;
+}
+.display-4{
+    text-align: center;
+}
+.jumbotron div:last-child img{
+    display: inline-block;
+    margin: 0rem 1rem;
+    width: 20rem;
+}
+.jumbotron, .breadcrumb{
+    background-color: rgb(52, 58, 64) !important;
+}
+.jumbotron h1{
+    margin-bottom: 3rem;
+}
+.breadcrumb{
+    padding: .75rem 1rem !important;
+    justify-content: center;
+}
+#order-btn{
+    border: 2px solid rgb(10, 10 ,10) !important;
+}
+.form-signin button{
+    border: 2px solid rgb(10, 10 ,10) !important;
+}
+ol{
+    -webkit-padding-start: 0px !important;
+}
+ol li span{
+    font-size: 3vh;
+}
+footer{
+    border-top: 5px solid rgb(234, 67, 53);
+}
+.col-md-4 h2{
+    margin-top: 3rem;
+}
+.col-md-4 ul{
+    -webkit-padding-start: 0px !important;
+    list-style-type: none;
+    margin-bottom: 5rem;
+}
